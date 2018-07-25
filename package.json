@@ -1,0 +1,9 @@
+{
+    "name": "conditioner",
+    "version": "0.1.0",
+    "description": "Make html elements show/hide based on form values",
+    "author": "Avery Tam <btam06@gmail.com>",
+    "license": "MIT",
+    "repository": "btam06/Conditioner",
+    "main": "lib/conditioner.js"
+}
