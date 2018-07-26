@@ -1,5 +1,5 @@
 {
-    "name": "@atam19/conditioner",
+    "name": "ridill-conditioner",
     "version": "0.2.0",
     "description": "Make html elements show/hide based on form values",
     "author": "Avery Tam <btam06@gmail.com>",
