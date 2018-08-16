@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<style>
+			[data-condition]:not([data-visible]) {
+				display: none;
+			}
+		</style>
+	</head>
+	<body>
+		<label>
+			<input type="checkbox" name="test" value="1" />
+			Click Me
+		</label>
+		<div data-condition="test" data-value="1">
+			<p>Content</p>
+		</div>
+	</body>
+	<script type="module" src="./index.js"></script>
+</html>
