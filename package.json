@@ -1,6 +1,6 @@
 {
     "name": "offhand-conditioner",
-    "version": "1.0.0",
+    "version": "0.3.1",
     "description": "Make html elements show/hide based on form values",
     "author": "Avery Tam <btam06@gmail.com>",
     "license": "MIT",
