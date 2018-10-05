@@ -7,11 +7,27 @@
 		</style>
 	</head>
 	<body>
-		<label>
-			<input type="checkbox" name="test" value="1" />
-			Click Me
-		</label>
-		<div data-condition="test" data-value="1">
+		<div>
+			<h1>Checkbox</h1>
+			<label>
+				<input type="checkbox" name="test" value="1" />
+				Click Me
+			</label>
+			<div data-condition="test" data-value="1">
+				<p>Content</p>
+			</div>
+		</div>
+
+		<div>
+			<h1>Radio</h1>
+			<label>Radio 1
+				<input type="radio" name="radio" value="1" />
+			</label>
+			<label>Radio 2
+				<input type="radio" name="radio" value="2" />
+			</label>
+		</div>
+		<div data-condition="radio" data-value="2">
 			<p>Content</p>
 		</div>
 	</body>
